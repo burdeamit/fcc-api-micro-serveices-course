@@ -13,8 +13,7 @@
 		"npm"
 	],
 	"dependencies": {
-		"express": "^4.14.0",
-		"moment": "^2.10.2"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -24,5 +23,4 @@
 		"type": "git",
 		"url": "https://github.com/burdeamit/fcc-api-micro-serveices-course"
 	}
-	
 }
