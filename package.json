@@ -1,5 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": {
+		"name": "Amit Burde",
+		"email": "burdeamit@gmail.com"
+	},
+	"keywords": ["freecodecamp", "node", "npm"],
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +15,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/burdeamit/fcc-api-micro-serveices-course"
 	}
 }
