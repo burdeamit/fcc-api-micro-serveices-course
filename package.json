@@ -5,6 +5,7 @@
 		"email": "burdeamit@gmail.com"
 	},
 	"version": "1.0.3",
+	"license": "MIT",
 	"description": "FreeCodeCamp API and Microservices Course",
 	"keywords": [
 		"freecodecamp",
@@ -23,4 +24,5 @@
 		"type": "git",
 		"url": "https://github.com/burdeamit/fcc-api-micro-serveices-course"
 	}
+	
 }
