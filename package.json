@@ -4,6 +4,7 @@
 		"name": "Amit Burde",
 		"email": "burdeamit@gmail.com"
 	},
+	"description": "FreeCodeCamp API and Microservices Course",
 	"keywords": ["freecodecamp", "node", "npm"],
 
 	"dependencies": {
